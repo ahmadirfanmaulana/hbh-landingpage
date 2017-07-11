@@ -178,6 +178,9 @@ hr.small {
 .service-item {
     margin-bottom: 30px;    
 }
+.service-item h2{
+    font-size: 55px;
+}
 
 /* Callout */
 
@@ -284,6 +287,7 @@ footer {
 .item{
   margin: 0px 15px;
 }
+
 .sesi{
   margin-top:70px;
 }
@@ -372,7 +376,7 @@ footer {
     margin-left: 0px;
   }
   .service-item{
-    margin-top: 40px;
+    margin-top: 60px;
   }
   #about
   {

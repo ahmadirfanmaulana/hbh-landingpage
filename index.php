@@ -48,22 +48,22 @@
         <ul class="sidebar-nav">
             <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
             <li>
-                <a href="#top" onclick=$("#menu-close").click();>Home</a>
+                <a href="#top" onclick=$("#menu-close").click();>Beranda</a>
             </li>
             <li>
-                <a href="#about" onclick=$("#menu-close").click();>About</a>
+                <a href="#about" onclick=$("#menu-close").click();>Tentang</a>
             </li>
             <li>
                 <a href="#services" onclick=$("#menu-close").click();>Agenda</a>
             </li>
             <li>
-                <a href="#testimonials" onclick=$("#menu-close").click();>Testimonials</a>
+                <a href="#testimonials" onclick=$("#menu-close").click();>Testimonial</a>
             </li>
             <li>
-                <a href="#share" onclick=$("#menu-close").click();>Share</a>
+                <a href="#share" onclick=$("#menu-close").click();>Bagikan</a>
             </li>
             <li>
-                <a href="#location" onclick=$("#menu-close").click();>Location</a>
+                <a href="#location" onclick=$("#menu-close").click();>Lokasi</a>
             </li>
         </ul>
     </nav>
@@ -115,7 +115,7 @@
                               <div class="service-item">
                               </span>
                                   <h2>
-                                      <strong>Sesi 1</strong>
+                                      <strong style="font-family: 'LobsterTwo-Regular'">Sesi 1</strong>
                                   </h2>
                                   <hr class="small">
                                   <p>
@@ -148,7 +148,7 @@
                               <div class="service-item">
                               </span>
                                   <h2>
-                                      <strong>Sesi 2</strong>
+                                      <strong style="font-family: 'LobsterTwo-Regular'">Sesi 2</strong>
                                   </h2>
                                   <hr class="small">
                                   <p>
