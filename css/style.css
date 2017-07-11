@@ -1,11 +1,3 @@
-/*!
- * Start Bootstrap - Stylish Portfolio (http://startbootstrap.com/)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
-
-/* Global Styles */
-
 html,
 body {
     width: 100%;
@@ -205,6 +197,8 @@ hr.small {
 
 .portfolio {
     padding: 50px 0;
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
 }
 
 .portfolio-item {
@@ -259,6 +253,18 @@ footer {
 }
 
 /* Cascading Style Sheet Custom by Ahmad Irfan Maulana */
+.header p{
+    letter-spacing: 2px;
+}
+#about p{
+    padding: 30px 0px;
+    line-height: 2em;
+}
+#testimonials p.job-position{
+    font-weight: 600;
+    color: #444;
+    font-size: 13px;
+}
 .time{
   font-size: 30px;
 }
@@ -286,6 +292,14 @@ footer {
 }
 #services .h2{
   margin-left: 130px;
+}
+.share-with{
+    width:30px; 
+    border-radius:5px;
+    background: #fff;
+}
+#share .btn{
+    border-radius: 3px;
 }
 .bg-primary{
   background: #ED713B;
