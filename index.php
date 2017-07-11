@@ -234,31 +234,31 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h3>SHARE</h3>
+                    <h3>BAGIKAN</h3>
                     <hr class="small">
-                    <a href="#" class="btn btn-lg ">
-                      <button class="btn btn-dark btn-share">
+                    <a href="https://www.facebook.com/sharer.php?u=http://kampuskita.upnyk.ac.id/hbh-2017" target="_blank" class="btn btn-lg">
+                      <button class="btn btn-share btn-facebook">
                           <img src="img/facebook.png" alt="" class="share-with">
-                          Bagikan di Facebook
+                          Facebook
                       </button>
                     </a>
-                    <a href="#" class="btn btn-lg btn-share">
-                       <button class="btn btn-dark"> 
-                          <img src="img/line.png" alt="" class="share-with">
-                          Bagikan di Line
-                       </button>
-                    </a>
-                    <a href="#" class="btn btn-lg btn-share">
-                      <button class="btn btn-dark">
+                    <a href="https://twitter.com/intent/tweet?text=Halal Bihalal Ikatan Alumni UPN Veteran Jogjakarta&url=http://kampuskita.upnyk.ac.id/hbh-2017&source=webclient" class="btn btn-lg" target="_blank">
+                      <button class="btn btn-share btn-twitter">
                           <img src="img/twitter.png" alt="" class="share-with">
-                           Bagikan di Twitter
+                           Twitter
                       </button> 
                     </a>
-                    <a href="#" class="btn btn-lg btn-share">
-                      <button class="btn btn-dark">
+                    <a href="whatsapp://send?text=Halal Bihalal Ikatan Alumni UPN Veteran Jogjakarta%20http://kampuskita.upnyk.ac.id/hbh-2017" class="btn btn-lg hidd">
+                      <button class="btn btn-share btn-whatsapp">
                           <img src="img/whatsapp.png" alt="" class="share-with">
-                          Bagikan di WhatsApp
+                          WhatsApp
                       </button> 
+                    </a>
+                    <a href="http://line.me/R/msg/text/?Halal Bihalal Ikatan Alumni UPN Veteran Jogjakarta http://kampuskita.upnyk.ac.id/hbh-2017" class="btn btn-lg hidd">
+                       <button class="btn btn-share btn-line"> 
+                          <img src="img/line.png" alt="" class="share-with">
+                          Line
+                       </button>
                     </a>
                 </div>
             </div>

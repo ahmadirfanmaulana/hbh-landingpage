@@ -256,6 +256,10 @@ footer {
 .header p{
     letter-spacing: 2px;
 }
+#about,#location{
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+}
 #about p{
     padding: 30px 0px;
     line-height: 2em;
@@ -295,11 +299,27 @@ footer {
 }
 .share-with{
     width:30px; 
-    border-radius:5px;
+    border-radius:0px;
     background: #fff;
 }
 #share .btn{
-    border-radius: 3px;
+    border-radius: 2px;
+    min-width: 300px;
+}
+#share .btn:hover{
+    color: #fefefe;
+}
+#share .btn-facebook{
+    background: #3b5998;
+}
+#share .btn-twitter{
+    background: #55acee;
+}
+#share .btn-whatsapp{
+    background: #1BD741;
+}
+#share .btn-line{
+    background: #00C500;
 }
 .bg-primary{
   background: #ED713B;
@@ -307,6 +327,9 @@ footer {
 .hidd{
   display: block;
 } 
+#share .hidd{
+    display: none;
+}
 .bg-info{
     background: #F8AE4B;
 }
@@ -335,6 +358,14 @@ footer {
   .hidd{
     display: none;
   }
+  #share .hidd{
+    display: block; 
+  }
+  #share .btn{
+    width: 100%;
+    padding: 7px 0px;
+    margin:2px 0px;
+}
   .sesi{
     margin-top: 0px;
   }#services .h2{
